@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>Subdomain Takeover PoC By Siddhesh Parab</h1>
+<h1>Subdomain Takeover PoC By Anil Bhatt and Team</h1>
 
 <?php
 echo "It's A Bug";
